@@ -180,10 +180,6 @@ attempting the bonus deliverables!**
 # Live Link
 [Git](gh-pages link)
 
-## Technologies used
-Github
-Javascript
-
 ## Support and contact details
 https://github.com/anthony-ngonde
 
