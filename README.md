@@ -177,6 +177,19 @@ attempting the bonus deliverables!**
    additional GET request to access the movie's details.
 
 
+# Live Link
+[Git](gh-pages link)
+
+## Technologies used
+Github
+Javascript
+
+## Support and contact details
+https://github.com/anthony-ngonde
+
+### License
+
+
 
 
 
