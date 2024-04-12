@@ -178,7 +178,7 @@ attempting the bonus deliverables!**
 
 
 # Live Link
-[Git](gh-pages link)
+https://anthony-ngonde.github.io/Code-Challenge-3/
 
 ## Support and contact details
 https://github.com/anthony-ngonde
